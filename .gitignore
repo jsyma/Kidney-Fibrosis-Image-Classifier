@@ -1,3 +1,5 @@
 /MobileNetV2/Data/*
 /ResNet50V2/Data/*
+.idea/
+/ResNet50V2/model_features/
 /VGG16/IRI*/
